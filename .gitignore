@@ -1,0 +1,9 @@
+#unused files
+Example*Project/
+_MACOSX/
+Data/
+*.html
+*.tpl
+.ipynb_checkpoints/
+
+
